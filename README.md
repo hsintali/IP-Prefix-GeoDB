@@ -4,8 +4,8 @@
 
 * Features
   * Provide client to lookup the geolocations of given IP prefixes
-  * A kafka message broker to store client lookup request and the server response geolocation
-  * CLI for administrators perform CRUD operations on the database
+  * A Kafka message broker to store client lookup request and the server response geolocation
+  * CLI for administrators to perform CRUD operations on the database
 
 * System architecture diagram
   ![](https://github.com/hsintali/IP-Prefix-GeoDB/blob/main/IPDB.jpg)
